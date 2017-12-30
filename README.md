@@ -1,4 +1,2 @@
 # vim
-vim files!
-
-Starting to use vim. Collecting files here
+My vim.rc used for neovim
