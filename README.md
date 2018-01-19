@@ -1,2 +1,2 @@
 # vim
-My vim.rc used for neovim
+My vim.rc used for neovim!
